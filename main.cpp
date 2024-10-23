@@ -2,7 +2,8 @@
 
 int main()
 {
-    std::cout << "petya\n";
+    std::string name = "dima";
+    std::cout << name;
 
     return 1;
 }
