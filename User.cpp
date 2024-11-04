@@ -4,7 +4,7 @@ class User
 {
     private:
         int id;
-        std::string email = "";
+        std::string email = "petya@mail.com";
         int age = 18;
 
     public:
